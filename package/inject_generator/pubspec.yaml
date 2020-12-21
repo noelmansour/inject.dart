@@ -23,7 +23,7 @@ dependencies:
   stack_trace: ^1.9.3
 
 dev_dependencies:
-  build_runner: ^1.10.1
+  build_runner: ^1.10.11
   build_test: ^1.0.0
   inject:
     path: ../inject
